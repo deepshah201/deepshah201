@@ -9,6 +9,8 @@
 
   # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [GitHub Actions Tutorial for beginner: Step by Step](https://deepshah201.medium.com/github-actions-tutorial-for-beginner-step-by-step-de3dd7d5457b?source=rss-1a67e5bb9ceb------2)
+- [Trigger workflow from other Repository with GitHub Actions](https://deepshah201.medium.com/trigger-workflow-from-other-repository-with-github-actions-4d61b118c6b8?source=rss-1a67e5bb9ceb------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
