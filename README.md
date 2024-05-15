@@ -9,6 +9,7 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Top GitHub Repository for QA/Automation.](https://deepshah201.medium.com/top-github-repository-for-qa-automation-d57d77347bda?source=rss-1a67e5bb9ceb------2)
 - [Top 5 websites that everyone should know about.](https://deepshah201.medium.com/top-5-websites-that-everyone-should-know-about-5cff0dc47b4a?source=rss-1a67e5bb9ceb------2)
 - [Automatically displaying your latest blog posts on your GitHub profile or project README.](https://deepshah201.medium.com/automatically-displaying-your-latest-blog-posts-on-your-github-profile-or-project-readme-8c63cdc9c98e?source=rss-1a67e5bb9ceb------2)
 - [GitHub Actions Tutorial for beginner: Step by Step](https://deepshah201.medium.com/github-actions-tutorial-for-beginner-step-by-step-de3dd7d5457b?source=rss-1a67e5bb9ceb------2)
