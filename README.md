@@ -9,11 +9,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [What is Git? A Guide to Git Version Control](https://deepshah201.medium.com/what-is-git-a-guide-to-git-version-control-5f666ff76362?source=rss-1a67e5bb9ceb------2)
 - [Top GitHub Repository for QA/Automation.](https://deepshah201.medium.com/top-github-repository-for-qa-automation-d57d77347bda?source=rss-1a67e5bb9ceb------2)
 - [Top websites that everyone should know about.](https://deepshah201.medium.com/top-5-websites-that-everyone-should-know-about-5cff0dc47b4a?source=rss-1a67e5bb9ceb------2)
 - [Automatically displaying your latest blog posts on your GitHub profile or project README.](https://deepshah201.medium.com/automatically-displaying-your-latest-blog-posts-on-your-github-profile-or-project-readme-8c63cdc9c98e?source=rss-1a67e5bb9ceb------2)
 - [GitHub Actions Tutorial for beginner: Step by Step](https://deepshah201.medium.com/github-actions-tutorial-for-beginner-step-by-step-de3dd7d5457b?source=rss-1a67e5bb9ceb------2)
-- [Trigger workflow from other Repository with GitHub Actions](https://deepshah201.medium.com/trigger-workflow-from-other-repository-with-github-actions-4d61b118c6b8?source=rss-1a67e5bb9ceb------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
