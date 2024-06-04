@@ -9,8 +9,8 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
-- [Cypress E2E web Automation || Write and run first Tests.](https://deepshah201.medium.com/cypress-e2e-web-automation-write-and-run-first-tests-2b14e538e556?source=rss-1a67e5bb9ceb------2)
-- [Cypress E2E web Automation || Introduction &amp; Environment setup.](https://deepshah201.medium.com/cypress-e2e-web-automation-introduction-environment-setup-d0671fb62eb9?source=rss-1a67e5bb9ceb------2)
+- [Cypress web Automation — Write and run first Tests.](https://deepshah201.medium.com/cypress-e2e-web-automation-write-and-run-first-tests-2b14e538e556?source=rss-1a67e5bb9ceb------2)
+- [Cypress web Automation — Introduction &amp; Environment setup.](https://deepshah201.medium.com/cypress-e2e-web-automation-introduction-environment-setup-d0671fb62eb9?source=rss-1a67e5bb9ceb------2)
 - [What is Git? A Guide to Git Version Control](https://blog.devgenius.io/what-is-git-a-guide-to-git-version-control-5f666ff76362?source=rss-1a67e5bb9ceb------2)
 - [Top GitHub Repository for QA/Automation.](https://deepshah201.medium.com/top-github-repository-for-qa-automation-d57d77347bda?source=rss-1a67e5bb9ceb------2)
 - [Top websites that everyone should know about.](https://deepshah201.medium.com/top-5-websites-that-everyone-should-know-about-5cff0dc47b4a?source=rss-1a67e5bb9ceb------2)
