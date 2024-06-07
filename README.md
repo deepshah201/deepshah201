@@ -9,11 +9,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Cypress web automation — Handling Alerts](https://deepshah201.medium.com/cypress-web-automation-handling-alerts-9c0f3cd1b117?source=rss-1a67e5bb9ceb------2)
 - [Cypress web automation — Handling Dropdowns](https://deepshah201.medium.com/cypress-web-automation-handling-dropdowns-84de2813634d?source=rss-1a67e5bb9ceb------2)
 - [Cypress web automation — Selecting Radio Buttons and Checkboxes](https://deepshah201.medium.com/cypress-web-automation-selecting-radio-buttons-and-checkboxes-4b63199aea5d?source=rss-1a67e5bb9ceb------2)
 - [Cypress web automation — Assertions](https://deepshah201.medium.com/cypress-web-automation-assertions-5c3e8f679cca?source=rss-1a67e5bb9ceb------2)
 - [Cypress web Automation — Write and run first Tests.](https://deepshah201.medium.com/cypress-e2e-web-automation-write-and-run-first-tests-2b14e538e556?source=rss-1a67e5bb9ceb------2)
-- [Cypress web Automation — Introduction &amp; Environment setup.](https://deepshah201.medium.com/cypress-e2e-web-automation-introduction-environment-setup-d0671fb62eb9?source=rss-1a67e5bb9ceb------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
