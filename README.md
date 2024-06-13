@@ -9,11 +9,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Cypress web automation — Page Object Model Pattern](https://deepshah201.medium.com/cypress-web-automation-page-object-model-pattern-5cb7e802f977?source=rss-1a67e5bb9ceb------2)
 - [Cypress web automation — Generate HTML Reports &lpar;mochawesome&rpar;](https://deepshah201.medium.com/cypress-web-automation-generate-html-reports-mochawesome-47939c830c85?source=rss-1a67e5bb9ceb------2)
 - [Cypress web automation — Browser Navigation Commands](https://deepshah201.medium.com/cypress-web-automation-browser-navigation-commands-1baa882a8e07?source=rss-1a67e5bb9ceb------2)
 - [Cypress web automation — Create Custom commands](https://deepshah201.medium.com/cypress-web-automation-create-custom-commands-9c896014f862?source=rss-1a67e5bb9ceb------2)
 - [Cypress web automation — Handling File Upload](https://deepshah201.medium.com/cypress-web-automation-handling-file-upload-d867b9e3034a?source=rss-1a67e5bb9ceb------2)
-- [Cypress web automation — Handling iFrames](https://deepshah201.medium.com/cypress-web-automation-handling-iframes-c2df3bb3b1fb?source=rss-1a67e5bb9ceb------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
