@@ -9,11 +9,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [JMeter — What is JMeter &amp; how to Set Up.](https://deepshah201.medium.com/jmeter-what-is-jmeter-how-to-set-up-81d559cff293?source=rss-1a67e5bb9ceb------2)
 - [Read QR Code content using Selenium , TestNG &amp; Zxing](https://deepshah201.medium.com/read-qr-code-content-using-selenium-testng-zxing-a627cbbb2d99?source=rss-1a67e5bb9ceb------2)
 - [Cypress web Automation — Tips &amp; Tricks](https://deepshah201.medium.com/cypress-web-automation-tips-tricks-25fc65000ce9?source=rss-1a67e5bb9ceb------2)
 - [Cypress web Automation — Handling Shadow DOM](https://deepshah201.medium.com/cypress-web-automation-handling-shadow-dom-c9cdc37c5144?source=rss-1a67e5bb9ceb------2)
 - [Cypress web Automation — Reading and Writing Data from a File](https://deepshah201.medium.com/cypress-web-automation-reading-and-writing-data-from-a-file-ac3312c8bb54?source=rss-1a67e5bb9ceb------2)
-- [Cypress web automation — Page Object Model Pattern](https://deepshah201.medium.com/cypress-web-automation-page-object-model-pattern-5cb7e802f977?source=rss-1a67e5bb9ceb------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
