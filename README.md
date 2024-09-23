@@ -9,11 +9,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Java — JDK, JRE and JVM](https://deepshah201.medium.com/java-jdk-jre-and-jvm-24fb7b9bc310?source=rss-1a67e5bb9ceb------2)
 - [How to Decide Benchmarks for Performance Testing?](https://deepshah201.medium.com/how-to-decide-benchmarks-for-performance-testing-9506207cb8cd?source=rss-1a67e5bb9ceb------2)
 - [JMeter — Setting Up JMeter for SOAP &amp; REST API](https://deepshah201.medium.com/setting-up-jmeter-for-soap-rest-api-e23d283a44bb?source=rss-1a67e5bb9ceb------2)
 - [JMeter —  Your First Test Plan Made Easy](https://deepshah201.medium.com/jmeter-your-first-test-plan-made-easy-5695131126ff?source=rss-1a67e5bb9ceb------2)
 - [JMeter — What is JMeter &amp; how to Set Up.](https://deepshah201.medium.com/jmeter-what-is-jmeter-how-to-set-up-81d559cff293?source=rss-1a67e5bb9ceb------2)
-- [Read QR Code content using Selenium , TestNG &amp; Zxing](https://deepshah201.medium.com/read-qr-code-content-using-selenium-testng-zxing-a627cbbb2d99?source=rss-1a67e5bb9ceb------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
