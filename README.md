@@ -9,11 +9,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Playwright — Built-in locator methods](https://deepshah201.medium.com/playwright-built-in-locator-methods-c388e7f75be4?source=rss-1a67e5bb9ceb------2)
 - [Playwright — Create and Run Tests](https://deepshah201.medium.com/playwright-create-and-run-tests-3dd8995b2b98?source=rss-1a67e5bb9ceb------2)
 - [Playwright — Installation](https://deepshah201.medium.com/playwright-installation-3a61e313a84a?source=rss-1a67e5bb9ceb------2)
 - [Playwright — Playwright Vs Selenium Vs Cypress](https://deepshah201.medium.com/playwright-playwright-vs-selenium-vs-cypress-b29e63850009?source=rss-1a67e5bb9ceb------2)
 - [Differences Between var, let, and const in JavaScript](https://deepshah201.medium.com/differences-between-var-let-and-const-in-javascript-bd5b74c0e7ff?source=rss-1a67e5bb9ceb------2)
-- [Java — == vs .equals&lpar;&rpar;](https://deepshah201.medium.com/java-vs-equals-e3d0f9c0a7fb?source=rss-1a67e5bb9ceb------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
