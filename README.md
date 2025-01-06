@@ -9,11 +9,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Playwright — Hard Assertion &amp; Soft Assertion](https://deepshah201.medium.com/playwright-hard-assertion-soft-assertion-7b13f63060c3?source=rss-1a67e5bb9ceb------2)
 - [Playwright — Record &amp; Play scripts using Codegen](https://deepshah201.medium.com/playwright-record-play-scripts-using-codegen-3441f06d637d?source=rss-1a67e5bb9ceb------2)
 - [Playwright — Built-in locator methods](https://deepshah201.medium.com/playwright-built-in-locator-methods-c388e7f75be4?source=rss-1a67e5bb9ceb------2)
 - [Playwright — Create and Run Tests](https://deepshah201.medium.com/playwright-create-and-run-tests-3dd8995b2b98?source=rss-1a67e5bb9ceb------2)
 - [Playwright — Installation](https://deepshah201.medium.com/playwright-installation-3a61e313a84a?source=rss-1a67e5bb9ceb------2)
-- [Playwright — Playwright Vs Selenium Vs Cypress](https://deepshah201.medium.com/playwright-playwright-vs-selenium-vs-cypress-b29e63850009?source=rss-1a67e5bb9ceb------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
