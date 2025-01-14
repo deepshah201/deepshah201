@@ -9,11 +9,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Playwright — Handling Alerts](https://deepshah201.medium.com/playwright-handling-alerts-3daebf3b7392?source=rss-1a67e5bb9ceb------2)
 - [Playwright — Handle Hidden Elements in DropDown](https://deepshah201.medium.com/playwright-handle-hidden-elements-in-dropdown-f3670a6cb570?source=rss-1a67e5bb9ceb------2)
 - [Playwright — Capture Screenshots](https://deepshah201.medium.com/playwright-capture-screenshots-d72b3324e156?source=rss-1a67e5bb9ceb------2)
 - [Playwright — Handling Auto-Suggest Dropdowns](https://deepshah201.medium.com/playwright-handling-auto-suggest-dropdowns-fa6623dd4d97?source=rss-1a67e5bb9ceb------2)
 - [Playwright —Handling Bootstrap DropDown](https://deepshah201.medium.com/playwright-handling-bootstrap-dropdown-d0aa7f96ec52?source=rss-1a67e5bb9ceb------2)
-- [Playwright — Handling Multi Select DropDown](https://deepshah201.medium.com/playwright-handling-multi-select-dropdown-bcc8324e05a0?source=rss-1a67e5bb9ceb------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
