@@ -9,11 +9,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Playwright — Hooks -beforeEach, afterEach, beforeAll &amp; afterAll](https://deepshah201.medium.com/playwright-hooks-beforeeach-aftereach-beforeall-afterall-71356fb1b94b?source=rss-1a67e5bb9ceb------2)
 - [Playwright — Keyboard Actions](https://deepshah201.medium.com/playwright-keyboard-actions-cc2648ea7e75?source=rss-1a67e5bb9ceb------2)
 - [Playwright — Drag and Drop Actions](https://deepshah201.medium.com/playwright-drag-and-drop-actions-4ecbd5291645?source=rss-1a67e5bb9ceb------2)
 - [Playwright — Double Click](https://deepshah201.medium.com/playwright-double-click-df43f3b244f7?source=rss-1a67e5bb9ceb------2)
 - [Playwright — Right Click](https://deepshah201.medium.com/playwright-right-click-634e68a3f6b3?source=rss-1a67e5bb9ceb------2)
-- [Playwright — Mouse Hover Action](https://deepshah201.medium.com/playwright-mouse-hover-action-bd1835c04cf0?source=rss-1a67e5bb9ceb------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
