@@ -9,11 +9,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Playwright — Page Object Model Pattern](https://deepshah201.medium.com/playwright-page-object-model-pattern-2848101857bd?source=rss-1a67e5bb9ceb------2)
 - [Playwright — Understanding Annotations](https://deepshah201.medium.com/playwright-understanding-annotations-2b2195905332?source=rss-1a67e5bb9ceb------2)
 - [Playwright — Understanding Tags](https://deepshah201.medium.com/playwright-understanding-tags-2f951df1421d?source=rss-1a67e5bb9ceb------2)
 - [Playwright — Trace Viewer](https://deepshah201.medium.com/playwright-trace-viewer-c012dcea5f34?source=rss-1a67e5bb9ceb------2)
 - [Playwright — Capturing Videos](https://deepshah201.medium.com/playwright-capturing-videos-b8290cead4e9?source=rss-1a67e5bb9ceb------2)
-- [Playwright — Hooks -beforeEach, afterEach, beforeAll &amp; afterAll](https://deepshah201.medium.com/playwright-hooks-beforeeach-aftereach-beforeall-afterall-71356fb1b94b?source=rss-1a67e5bb9ceb------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
