@@ -9,11 +9,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Generating JavaDoc for any Java project with the Maven Javadoc Plugin](https://medium.com/javarevisited/generating-javadoc-for-any-java-project-with-the-maven-javadoc-plugin-b667d2352933?source=rss-1a67e5bb9ceb------2)
 - [GIT CONCEPTS : Every DEV/SDET should know](https://blog.devgenius.io/git-concepts-every-dev-sdet-should-know-91bdd8db0fdc?source=rss-1a67e5bb9ceb------2)
 - [Playwright — Retry Failed Test Cases](https://deepshah201.medium.com/playwright-retry-failed-test-cases-b576be60154e?source=rss-1a67e5bb9ceb------2)
 - [Playwright — Allure Reports](https://deepshah201.medium.com/playwright-allure-reports-969b70998040?source=rss-1a67e5bb9ceb------2)
 - [Playwright — Multiple Windows](https://deepshah201.medium.com/playwright-multiple-windows-0dbdc519f255?source=rss-1a67e5bb9ceb------2)
-- [Playwright — Page Object Model Pattern](https://deepshah201.medium.com/playwright-page-object-model-pattern-2848101857bd?source=rss-1a67e5bb9ceb------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
