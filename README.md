@@ -9,11 +9,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Creating a JAR from a Maven Project and Reusing It in Another Maven Project](https://medium.com/javarevisited/creating-a-jar-from-a-maven-project-and-reusing-it-in-another-maven-project-072131274682?source=rss-1a67e5bb9ceb------2)
 - [Build JAR for a Maven Project without running Test Cases](https://medium.com/syntest/build-jar-for-a-maven-project-without-running-test-cases-8156fb3e8be4?source=rss-1a67e5bb9ceb------2)
 - [Debugging Playwright Tests in Java with Eclipse IDE : My Personal Experiment](https://medium.com/syntest/debugging-playwright-tests-in-java-with-eclipse-ide-my-personal-experiment-e934dfd722ef?source=rss-1a67e5bb9ceb------2)
 - [Generating JavaDoc for any Java project with the Maven Javadoc Plugin](https://medium.com/javarevisited/generating-javadoc-for-any-java-project-with-the-maven-javadoc-plugin-b667d2352933?source=rss-1a67e5bb9ceb------2)
 - [GIT CONCEPTS : Every DEV/SDET should know](https://blog.devgenius.io/git-concepts-every-dev-sdet-should-know-91bdd8db0fdc?source=rss-1a67e5bb9ceb------2)
-- [Playwright — Retry Failed Test Cases](https://deepshah201.medium.com/playwright-retry-failed-test-cases-b576be60154e?source=rss-1a67e5bb9ceb------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
