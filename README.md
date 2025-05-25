@@ -9,11 +9,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Java Collection Framework: Hierarchical Diagram](https://medium.com/syntest/java-collection-framework-hierarchical-diagram-e79592ae9151?source=rss-1a67e5bb9ceb------2)
 - [Create an Executable JAR of a Maven Project and Run Automation from Eclipse](https://medium.com/syntest/create-an-executable-jar-of-a-maven-project-and-run-automation-from-eclipse-d445309e3d17?source=rss-1a67e5bb9ceb------2)
 - [Running Multiple testng.xml Files Using a Single testng.xml File](https://medium.com/syntest/running-multiple-testng-xml-files-using-a-single-testng-xml-file-4de065e10bc2?source=rss-1a67e5bb9ceb------2)
 - [10 Most important Maven Commands](https://medium.com/javarevisited/10-most-important-maven-commands-00cf9e8a11a0?source=rss-1a67e5bb9ceb------2)
 - [Creating a JAR from a Maven Project and Reusing It in Another Maven Project](https://medium.com/javarevisited/creating-a-jar-from-a-maven-project-and-reusing-it-in-another-maven-project-072131274682?source=rss-1a67e5bb9ceb------2)
-- [Build JAR for a Maven Project without running Test Cases](https://medium.com/syntest/build-jar-for-a-maven-project-without-running-test-cases-8156fb3e8be4?source=rss-1a67e5bb9ceb------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
