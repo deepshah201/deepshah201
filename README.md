@@ -9,11 +9,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Complete Guide to APIs and Web Services: Types, Testing, and Tools](https://medium.com/syntest/complete-guide-to-apis-and-web-services-types-testing-and-tools-52017ce01296?source=rss-1a67e5bb9ceb------2)
 - [LLM Model + browser-use + Web-UI: Create your own AI agent and automate browser tasks.](https://medium.com/syntest/llm-model-browser-use-web-ui-create-your-own-ai-agent-and-automate-browser-tasks-c90021aee14c?source=rss-1a67e5bb9ceb------2)
 - [Java Collection Framework: Hierarchical Diagram](https://medium.com/syntest/java-collection-framework-hierarchical-diagram-e79592ae9151?source=rss-1a67e5bb9ceb------2)
 - [Create an Executable JAR of a Maven Project and Run Automation from Eclipse](https://medium.com/syntest/create-an-executable-jar-of-a-maven-project-and-run-automation-from-eclipse-d445309e3d17?source=rss-1a67e5bb9ceb------2)
 - [Running Multiple testng.xml Files Using a Single testng.xml File](https://medium.com/syntest/running-multiple-testng-xml-files-using-a-single-testng-xml-file-4de065e10bc2?source=rss-1a67e5bb9ceb------2)
-- [10 Most important Maven Commands](https://medium.com/javarevisited/10-most-important-maven-commands-00cf9e8a11a0?source=rss-1a67e5bb9ceb------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
