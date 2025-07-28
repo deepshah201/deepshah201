@@ -9,11 +9,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [How to Validate Response Status in REST Assured: Practical Guide](https://blog.devgenius.io/how-to-validate-response-status-in-rest-assured-practical-guide-1b325ba14ed2?source=rss-1a67e5bb9ceb------2)
 - [Install Newman and run collection with Newman CLI](https://medium.com/syntest/install-newman-and-run-collection-with-newman-cli-ad10b306668e?source=rss-1a67e5bb9ceb------2)
 - [Data-Driven API Testing in Postman](https://deepshah201.medium.com/data-driven-api-testing-in-postman-baf3bda42c5e?source=rss-1a67e5bb9ceb------2)
 - [Complete Guide to APIs and Web Services: Types, Testing, and Tools](https://medium.com/syntest/complete-guide-to-apis-and-web-services-types-testing-and-tools-52017ce01296?source=rss-1a67e5bb9ceb------2)
 - [LLM Model + browser-use + Web-UI: Create your own AI agent and automate browser tasks.](https://medium.com/syntest/llm-model-browser-use-web-ui-create-your-own-ai-agent-and-automate-browser-tasks-c90021aee14c?source=rss-1a67e5bb9ceb------2)
-- [Java Collection Framework: Hierarchical Diagram](https://medium.com/syntest/java-collection-framework-hierarchical-diagram-e79592ae9151?source=rss-1a67e5bb9ceb------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
