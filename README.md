@@ -9,11 +9,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Validate API Header and JSON Response using Rest Assured](https://medium.com/syntest/validate-api-header-and-json-response-using-rest-assured-54cf65151b36?source=rss-1a67e5bb9ceb------2)
 - [REST APIs Made Simple: URL Structure, Path &amp; Query Parameters, and Response Codes](https://medium.com/syntest/rest-apis-made-simple-url-structure-path-query-parameters-and-response-codes-253881679f91?source=rss-1a67e5bb9ceb------2)
 - [How to Validate Response Status in REST Assured: Practical Guide](https://blog.devgenius.io/how-to-validate-response-status-in-rest-assured-practical-guide-1b325ba14ed2?source=rss-1a67e5bb9ceb------2)
 - [Install Newman and run collection with Newman CLI](https://medium.com/syntest/install-newman-and-run-collection-with-newman-cli-ad10b306668e?source=rss-1a67e5bb9ceb------2)
 - [Data-Driven API Testing in Postman](https://deepshah201.medium.com/data-driven-api-testing-in-postman-baf3bda42c5e?source=rss-1a67e5bb9ceb------2)
-- [Complete Guide to APIs and Web Services: Types, Testing, and Tools](https://medium.com/syntest/complete-guide-to-apis-and-web-services-types-testing-and-tools-52017ce01296?source=rss-1a67e5bb9ceb------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
