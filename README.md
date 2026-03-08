@@ -9,11 +9,12 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [The SDET’s Secret Weapon in 2026:
+Prompt Engineering](https://medium.com/codetodeploy/the-sdets-secret-weapon-in-2026-prompt-engineering-7818f87912cd?source=rss-1a67e5bb9ceb------2)
 - [Understanding the RTF Prompt Formula](https://deepshah201.medium.com/understanding-the-rtf-prompt-formula-30c1e643c486?source=rss-1a67e5bb9ceb------2)
 - [Guide to Basic Authentication in API Testing with Rest Assured](https://medium.com/syntest/guide-to-basic-authentication-in-api-testing-with-rest-assured-ee4cbf38a9ab?source=rss-1a67e5bb9ceb------2)
 - [Validate API Header and JSON Response using Rest Assured](https://medium.com/syntest/validate-api-header-and-json-response-using-rest-assured-54cf65151b36?source=rss-1a67e5bb9ceb------2)
 - [REST APIs Made Simple: URL Structure, Path &amp; Query Parameters, and Response Codes](https://medium.com/syntest/rest-apis-made-simple-url-structure-path-query-parameters-and-response-codes-253881679f91?source=rss-1a67e5bb9ceb------2)
-- [How to Validate Response Status in REST Assured: Practical Guide](https://blog.devgenius.io/how-to-validate-response-status-in-rest-assured-practical-guide-1b325ba14ed2?source=rss-1a67e5bb9ceb------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
