@@ -9,6 +9,7 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [The 10 Selenium mistakes every junior SDET makes](https://medium.com/syntest/the-10-selenium-mistakes-every-junior-sdet-makes-e109876d6d9d?source=rss-1a67e5bb9ceb------2)
 - [From manual QA to SDET.
 The honest roadmap nobody shares.](https://medium.com/syntest/from-manual-qa-to-sdet-the-honest-roadmap-nobody-shares-ac76d3b5269c?source=rss-1a67e5bb9ceb------2)
 - [Why most SDETs write bad bug reports And how to fix it?](https://medium.com/syntest/why-most-sdets-write-bad-bug-reports-and-how-to-fix-it-b258a256dee1?source=rss-1a67e5bb9ceb------2)
@@ -16,7 +17,6 @@ The honest roadmap nobody shares.](https://medium.com/syntest/from-manual-qa-to-
 Claude Skills Changed Everything.](https://medium.com/codetodeploy/i-stopped-writing-prompts-every-day-claude-skills-changed-everything-3a6cf38c89d3?source=rss-1a67e5bb9ceb------2)
 - [The SDET’s Secret Weapon in 2026:
 Prompt Engineering](https://medium.com/codetodeploy/the-sdets-secret-weapon-in-2026-prompt-engineering-7818f87912cd?source=rss-1a67e5bb9ceb------2)
-- [Understanding the RTF Prompt Formula](https://deepshah201.medium.com/understanding-the-rtf-prompt-formula-30c1e643c486?source=rss-1a67e5bb9ceb------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
