@@ -9,7 +9,7 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
-- [String vs StringBuilder vs StringBuffer in Java: A Complete Guide](https://deepshah201.medium.com/string-vs-stringbuilder-vs-stringbuffer-in-java-a-complete-guide-92f2199eaaf5?source=rss-1a67e5bb9ceb------2)
+- [String vs StringBuilder vs StringBuffer in Java](https://medium.com/syntest/string-vs-stringbuilder-vs-stringbuffer-in-java-a-complete-guide-92f2199eaaf5?source=rss-1a67e5bb9ceb------2)
 - [From 2 Hours to 20 Minutes: How I Supercharged Our Test Suite ⚡](https://medium.com/syntest/from-2-hours-to-20-minutes-how-i-supercharged-our-test-suite-b30827437397?source=rss-1a67e5bb9ceb------2)
 - [The 10 Selenium mistakes every junior SDET makes](https://medium.com/syntest/the-10-selenium-mistakes-every-junior-sdet-makes-e109876d6d9d?source=rss-1a67e5bb9ceb------2)
 - [From manual QA to SDET.
