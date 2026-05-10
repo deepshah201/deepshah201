@@ -9,12 +9,13 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Java Collections: Set.
+HashSet, LinkedHashSet, TreeSet and EnumSet explained.](https://medium.com/javarevisited/java-collections-set-hashset-linkedhashset-treeset-and-enumset-explained-f7f9da19038b?source=rss-1a67e5bb9ceb------2)
 - [Java Collections: List.
 ArrayList, LinkedList and Vector explained.](https://medium.com/javarevisited/java-collections-list-arraylist-linkedlist-and-vector-explained-707209e829c9?source=rss-1a67e5bb9ceb------2)
 - [I cried on my first day as an automation engineer. Three years later my salary grew by 5x.](https://deepshah201.medium.com/i-cried-on-my-first-day-as-an-automation-engineer-three-years-later-my-salary-grew-by-5x-8e1073f34ec4?source=rss-1a67e5bb9ceb------2)
 - [String vs StringBuilder vs StringBuffer in Java](https://medium.com/syntest/string-vs-stringbuilder-vs-stringbuffer-in-java-a-complete-guide-92f2199eaaf5?source=rss-1a67e5bb9ceb------2)
 - [From 2 Hours to 20 Minutes: How I Supercharged Our Test Suite ⚡](https://medium.com/syntest/from-2-hours-to-20-minutes-how-i-supercharged-our-test-suite-b30827437397?source=rss-1a67e5bb9ceb------2)
-- [The 10 Selenium mistakes every junior SDET makes](https://medium.com/syntest/the-10-selenium-mistakes-every-junior-sdet-makes-e109876d6d9d?source=rss-1a67e5bb9ceb------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
