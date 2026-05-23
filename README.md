@@ -9,13 +9,13 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Java Collections: Queue.](https://medium.com/javarevisited/java-collections-queue-cdf2e55db424?source=rss-1a67e5bb9ceb------2)
 - [Java Collections: Map. HashMap, LinkedHashMap, TreeMap, ConcurrentHashMap](https://medium.com/javarevisited/java-collections-map-hashmap-linkedhashmap-treemap-concurrenthashmap-a52a234bb8e0?source=rss-1a67e5bb9ceb------2)
 - [Java Collections: Set.
 HashSet, LinkedHashSet, TreeSet and EnumSet explained.](https://medium.com/javarevisited/java-collections-set-hashset-linkedhashset-treeset-and-enumset-explained-f7f9da19038b?source=rss-1a67e5bb9ceb------2)
 - [Java Collections: List.
 ArrayList, LinkedList and Vector explained.](https://medium.com/javarevisited/java-collections-list-arraylist-linkedlist-and-vector-explained-707209e829c9?source=rss-1a67e5bb9ceb------2)
 - [I cried on my first day as an automation engineer. Three years later my salary grew by 5x.](https://deepshah201.medium.com/i-cried-on-my-first-day-as-an-automation-engineer-three-years-later-my-salary-grew-by-5x-8e1073f34ec4?source=rss-1a67e5bb9ceb------2)
-- [String vs StringBuilder vs StringBuffer in Java](https://medium.com/syntest/string-vs-stringbuilder-vs-stringbuffer-in-java-a-complete-guide-92f2199eaaf5?source=rss-1a67e5bb9ceb------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
