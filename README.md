@@ -9,12 +9,13 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [OOP in Java: Polymorphism.
+One name. Many forms.](https://deepshah201.medium.com/oop-in-java-polymorphism-one-name-many-forms-8f9e9c7ac178?source=rss-1a67e5bb9ceb------2)
 - [OOP in Java: Inheritance.
 Write it once. Use it everywhere.](https://deepshah201.medium.com/oop-in-java-inheritance-write-it-once-use-it-everywhere-1b3f676d9947?source=rss-1a67e5bb9ceb------2)
 - [OOP in Java: Encapsulation.](https://deepshah201.medium.com/oop-in-java-encapsulation-d5bb09957d02?source=rss-1a67e5bb9ceb------2)
 - [OOP in Java: Classes and Objects.](https://deepshah201.medium.com/oop-in-java-classes-and-objects-2e64c1b0519b?source=rss-1a67e5bb9ceb------2)
 - [Java Collections: Queue.](https://medium.com/javarevisited/java-collections-queue-cdf2e55db424?source=rss-1a67e5bb9ceb------2)
-- [Java Collections: Map. HashMap, LinkedHashMap, TreeMap, ConcurrentHashMap](https://medium.com/javarevisited/java-collections-map-hashmap-linkedhashmap-treemap-concurrenthashmap-a52a234bb8e0?source=rss-1a67e5bb9ceb------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
