@@ -9,13 +9,13 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [How I Actually Use AI in My Daily SDET Workflow &lpar;Without the Hype&rpar;](https://deepshah201.medium.com/how-i-actually-use-ai-in-my-daily-sdet-workflow-without-the-hype-0e16c4277028?source=rss-1a67e5bb9ceb------2)
 - [OOP in Java: Abstraction.](https://deepshah201.medium.com/oop-in-java-abstraction-1d58822891ca?source=rss-1a67e5bb9ceb------2)
 - [OOP in Java: Polymorphism.
 One name. Many forms.](https://deepshah201.medium.com/oop-in-java-polymorphism-one-name-many-forms-8f9e9c7ac178?source=rss-1a67e5bb9ceb------2)
 - [OOP in Java: Inheritance.
 Write it once. Use it everywhere.](https://deepshah201.medium.com/oop-in-java-inheritance-write-it-once-use-it-everywhere-1b3f676d9947?source=rss-1a67e5bb9ceb------2)
 - [OOP in Java: Encapsulation.](https://deepshah201.medium.com/oop-in-java-encapsulation-d5bb09957d02?source=rss-1a67e5bb9ceb------2)
-- [OOP in Java: Classes and Objects.](https://deepshah201.medium.com/oop-in-java-classes-and-objects-2e64c1b0519b?source=rss-1a67e5bb9ceb------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
